@@ -1,0 +1,6 @@
+{
+  "name": "CampusMate BD",
+  "description": "Your University. Your Academic Life. One Platform — complete academic companion for university students in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
